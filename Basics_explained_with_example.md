@@ -269,24 +269,7 @@ plt.show()
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 **Author**: [Sanjan B M](https://github.com/sanjanb)
-```
 
-### **Steps to Add and Push the `README.md` File**
-
-1. **Edit the `README.md` File**:
-   - Open the `README.md` file in a text editor and paste the above Markdown code.
-
-2. **Commit the Changes**:
-   ```bash
-   git add README.md
-   git commit -m "Update README.md with detailed usage and basics of machine learning"
-   ```
-
-3. **Push the Changes**:
-   ```bash
-   git push origin main
-   ```
 
